@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "sample-playwright12",
+=======
+  "name": "sample-playwright11",
+>>>>>>> 48a5455af11aca5ffc6606475a9299c2049359db
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,8 +15,11 @@
   "devDependencies": {
     "@playwright/test": "^1.60.0",
     "@types/node": "^25.7.0"
+<<<<<<< HEAD
   },
   "dependencies": {
     "dotenv": "^17.4.2"
+=======
+>>>>>>> 48a5455af11aca5ffc6606475a9299c2049359db
   }
 }

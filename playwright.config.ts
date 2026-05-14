@@ -35,17 +35,29 @@ export default defineConfig({
   /* Configure projects for major browsers */
   projects: [
     {
+<<<<<<< HEAD
       name: 'user1',
+=======
+      name: 'chromium',
+>>>>>>> 48a5455af11aca5ffc6606475a9299c2049359db
       use: { ...devices['Desktop Chrome'] },
     },
 
     {
+<<<<<<< HEAD
       name: 'usera',
+=======
+      name: 'firefox',
+>>>>>>> 48a5455af11aca5ffc6606475a9299c2049359db
       use: { ...devices['Desktop Firefox'] },
     },
 
     {
+<<<<<<< HEAD
       name: 'userc',
+=======
+      name: 'webkit',
+>>>>>>> 48a5455af11aca5ffc6606475a9299c2049359db
       use: { ...devices['Desktop Safari'] },
     },
 
